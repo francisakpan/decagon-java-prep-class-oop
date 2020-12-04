@@ -21,7 +21,6 @@ public class Teacher extends Staff{
     public String role() {
         return "Teacher";
     }
-
     public boolean isTeach() {
         return teach;
     }

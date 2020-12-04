@@ -19,4 +19,5 @@ public class NonAcademicStaff extends Staff{
     public String role() {
         return "Non-academic staff";
     }
+
 }
